@@ -1,0 +1,5 @@
+mode: set
+github.com/FernandoZamir/test/main.go:3.24,5.2 1 1
+github.com/FernandoZamir/test/main.go:7.24,9.11 1 1
+github.com/FernandoZamir/test/main.go:13.2,13.10 1 1
+github.com/FernandoZamir/test/main.go:9.11,11.3 1 1
