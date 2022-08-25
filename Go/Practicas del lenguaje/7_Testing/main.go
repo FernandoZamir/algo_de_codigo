@@ -12,3 +12,12 @@ func Max(x, y int) int {
 
 	return y
 }
+
+// Fibo recursivo
+func Frecursivo(n int) int {
+	if n <= 1 {
+		return n
+	}
+
+	return Frecursivo(n-1) + Frecursivo(n-2)
+}
